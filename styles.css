@@ -533,7 +533,7 @@ body{
     position: relative;
 }
 .mwb-form-text-label {
-    left: 10px;
+    /* left: 10px; */
     position: absolute;
     top: 12px;
     transition: 0.2s linear all;
